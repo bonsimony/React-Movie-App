@@ -1,14 +1,10 @@
-/* import {
+ import {
   BrowserRouter as Router,
   Route,
   Routes
-} from "react-router-dom"; */
+} from "react-router-dom"; 
 
-import {
-  HashRouter as Router,
-  Route,
-  Routes
-} from "react-router-dom";
+
 
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
