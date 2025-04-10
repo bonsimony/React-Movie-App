@@ -1,4 +1,4 @@
- import {
+import {
   BrowserRouter as Router,
   Route,
   Routes
@@ -17,8 +17,8 @@ function App() {
 
   return <Router>
     <Routes>
-      <Route path = "/movie/:id" element={<Detail />} />
-      <Route path = "/" element={<Home />} />
+      <Route path = "/React-practice-movie-app/movie/:id" element={<Detail />} />
+      <Route path = "/React-practice-movie-app" element={<Home />} />
     </Routes>
   </Router>; 
 }
