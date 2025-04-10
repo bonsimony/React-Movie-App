@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-practice-movie-app/static/css/main.8973dbd0.css",
-    "main.js": "/React-practice-movie-app/static/js/main.e24dc7a8.js",
+    "main.js": "/React-practice-movie-app/static/js/main.518572a2.js",
     "static/js/453.b22bd5dd.chunk.js": "/React-practice-movie-app/static/js/453.b22bd5dd.chunk.js",
     "index.html": "/React-practice-movie-app/index.html",
     "main.8973dbd0.css.map": "/React-practice-movie-app/static/css/main.8973dbd0.css.map",
-    "main.e24dc7a8.js.map": "/React-practice-movie-app/static/js/main.e24dc7a8.js.map",
+    "main.518572a2.js.map": "/React-practice-movie-app/static/js/main.518572a2.js.map",
     "453.b22bd5dd.chunk.js.map": "/React-practice-movie-app/static/js/453.b22bd5dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8973dbd0.css",
-    "static/js/main.e24dc7a8.js"
+    "static/js/main.518572a2.js"
   ]
 }
